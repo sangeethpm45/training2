@@ -1,0 +1,31 @@
+.navlogo img {
+  width: 200px;
+  height: 60px;
+}
+.navlogo {
+  padding-top: 10px;
+  height: 10vh;
+}
+
+.left-block-form {
+  padding-left: 125px !important;
+  padding-right: 125px !important;
+}
+
+.form-boxes{
+  height: 65vh;
+  overflow-y: scroll;
+}
+
+mat-form-field.mat-form-field {
+  font-size: 1.6rem !important;
+  font-family: 'Manrope',sans-serif !important;
+  font-weight: 500 !important;
+  color: var(--dark,#151515) !important;
+  width: 80%;
+  
+}
+.inpt{
+  height: 50px;
+   width: 70%;
+}
